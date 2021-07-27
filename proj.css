@@ -1,0 +1,52 @@
+#p_default{
+		   	width: 230px;
+		   }
+		   #p_default1{
+		   	width: 230px;
+		   	margin-left: -17.5px;
+		   }
+		   #p_default2{
+		   	width: 230px;
+		   	margin-left: -36px;
+		   }
+		   #p_default3{
+		   	width: 230px;
+		   	margin-left: -53px;
+
+		   }
+
+		   /**/
+		   #p_body{
+		   	text-align: center;
+		   	padding-bottom: 10px;
+		   	color: #2072bb;
+		   }
+		   #p_body p{
+		   	margin-top: 20px;
+		   	margin-bottom: 10px;
+		   }
+
+		   /**/
+		   #p_footer{
+		   	font-size: 11px;
+		   	background-color: #65AAF0;
+		   	color: #fff;
+		   }
+		   #p_footer1{
+		   	text-align: center;
+		   	font-size: 11px;
+		   background-color: #65AAF0;
+		   	color: #fff;
+		   }
+		   #p_footer2{
+		   	text-align: center;
+		   	font-size: 11px;
+		   	background-color: #65AAF0;
+		   	color: #fff;
+		   }
+		   #p_footer3{
+		   	text-align: center;
+		   	font-size: 11px;
+		   	background-color: #65AAF0;
+		   	color: #fff;
+		   }
